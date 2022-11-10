@@ -138,3 +138,7 @@ Git и GitHub - это две разные вещи. Git - это програм
 * Создать пул-реквест при помощи кнопки «Compare & pull request»
 * Надеяться, что ваши изменения понравятся авторам :) 
 
+---
+## Интерактивный тренажер по Git
+[LeanCitBranchin](https://learngitbranching.js.org/?locale=ru_RU)
+---
